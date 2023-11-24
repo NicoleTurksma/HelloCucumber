@@ -11,4 +11,4 @@ Feature: Fridge
       | opening balance | processed | in stock |
       | 10              | 1         | 9        |
       | 1               | 1         | 0        |
-
+      | 0               | 1         | -1        |
